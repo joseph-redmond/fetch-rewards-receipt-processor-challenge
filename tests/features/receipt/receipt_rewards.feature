@@ -1,5 +1,3 @@
-#TODO: Implement this feature file and ensure all the values math out correctly in the description
-
 Feature: Receipt Rewards System
   As a customer,
   I want to upload my receipts and earn rewards based on various conditions
